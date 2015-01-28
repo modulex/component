@@ -22,7 +22,7 @@
         "modulex-base": "modulex-base#1.x",
         "modulex-ua": "modulex-ua#1.x",
         "modulex-feature": "modulex-feature#1.x",
-        "xtemplate": "xtemplate#3.x",
+        "xtemplate": "xtemplate/xtemplate#3.x",
         "modulex-dd": "modulex-dd#1.x",
         "modulex-resizable": "modulex-resizable#1.x"
     }
