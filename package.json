@@ -1,6 +1,6 @@
 {
   "name": "modulex-component",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "author": "yiminghe <yiminghe@gmail.com>",
   "engines": {
     "node": "~0.11"
@@ -8,7 +8,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/kissyteam/component.git"
+    "url": "http://github.com/modulex/component.git"
   },
   "testling": {
     "server": "server.js",
